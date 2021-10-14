@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://piracyops.now.sh"><img width="120" src="https://piracyops.now.sh/img/logo.svg" alt="arrrr!"></a>
+  <a href="https://piracyops.now.sh"><img width="120" src="https://piracyops.now.sh/img/logo.svg" alt="PiracyOps"></a>
   <br />
   <h1 align="center">Piracy Index</h1>
 </div>
