@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1024" height="1024">
+  <defs>
+    <clipPath id="b">
+      <use clip-rule="evenodd" xlink:href="#a"/>
+    </clipPath>
+    <path id="a" d="M0 0h1024v1024H0z"/>
+  </defs>
+  <g clip-path="url(#b)">
+    <use fill="#FFFFFF" fill-opacity="0" xlink:href="#a"/>
+    <path fill="#000000" d="M805 805c-28 0-52 15-64 37l-49-21-135 60 105 46c-2 8-4 16-4 24a73 73 0 10147 0 73 73 0 100-146z"/>
+    <path fill="#000000" d="M951 585a73 73 0 10-142 24L512 740 215 609a73 73 0 10-142-23 73 73 0 1064 108l240 107-94 41a73 73 0 00-137 36c0 40 33 73 73 73a73 73 0 10143-24l525-233a73 73 0 00137-36c0-40-33-73-73-73z"/>
+    <path fill="#000000" fill-rule="evenodd" d="M512 0a293 293 0 00-293 293v143c0 25 13 48 33 61l77 52v73h73v-73h73v73h74v-73h73v73h73v-73l77-52c20-13 33-36 33-61V293C805 131 674 0 512 0zM293 366a73 73 0 10146 0 73 73 0 00-146 0zm292 0a73 73 0 10146 0 73 73 0 00-146 0zM475 475c0-40 17-73 37-73s37 33 37 73h-74z"/>
+  </g>
+</svg>
