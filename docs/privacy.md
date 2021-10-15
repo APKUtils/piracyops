@@ -16,7 +16,7 @@ sidebar_label: Privacy
 - [That One Privacy Site](https://thatoneprivacysite.net/) - VPN and email service comparisons.
 - [Authy](https://authy.com/) - Two-Factor Authentication
 - [Anon.to](https://anon.to/) - URL shortener to de-referer or null-referer your links.
-- [Authenticator](https://authenticator.cc/) - Generate Two-Factor Codes / [GitHub](https://gitlab.gnome.org/World/Authenticator)
+- [Authenticator](https://authenticator.cc/) - Generate Two-Factor Codes / [GitHub](https://github.gnome.org/World/Authenticator)
 - [WinAuth](https://winauth.github.io/winauth/) - Combine Two-Factor Authenticator Services
 - [Surveillance Self-Defense](https://ssd.eff.org/), [Hitchhiker's Guide to Online Anonymity](https://anonymousplanet.github.io/thgtoa/guide.html) or [Security In A Box](https://securityinabox.org/en/) - Privacy & Safety Guides / Tools
 - [awesome-anti-censorship](https://github.com/danoctavian/awesome-anti-censorship) - Anti-Censorship tool index
@@ -32,7 +32,7 @@ sidebar_label: Privacy
 - [Mofolinux](https://mofolinux.com/) - Linux OS that protects privacy / avoids censorship
 - [Leecher](https://leecher.me/) - Anonymous Link / Download Generator
 - [Track This](https://trackthis.link/) - Confuse Personal Advertising by opening 100 tabs
-- [VeraCrypt](https://www.veracrypt.fr/en/Home.html) or [CryptSetup](https://gitlab.com/cryptsetup/cryptsetup) - Disk Encryption Software
+- [VeraCrypt](https://www.veracrypt.fr/en/Home.html) or [CryptSetup](https://github.com/cryptsetup/cryptsetup) - Disk Encryption Software
 - [FileVault](https://support.apple.com/en-us/HT204837) - Mac Disk Encryption
 - [Cryptomator](https://cryptomator.org/), [Tahoe-LAFS](https://tahoe-lafs.org/trac/tahoe-lafs) or [xordrive](https://xordrive.io/) - Cloud File Encryption
 - [upload-vaa](https://upload.vaa.red/) - Encrypted File Upload
@@ -71,7 +71,7 @@ sidebar_label: Privacy
 ## Privacy Extensions
 
 - ⭐ [Privacy Badger](https://privacybadger.org/) or [Privacy Possum](https://github.com/cowlicks/privacypossum) - Blocks invisible trackers
-- ⭐ [ClearURLs](https://github.com/ClearURLs/Addon/releases) , [2](https://gitlab.com/KevinRoebert/ClearUrls) or [Link Sanitizer](https://greasyfork.org/en/scripts/374699-link-sanitizer) - Removes tracking elements from URLs
+- ⭐ [ClearURLs](https://github.com/ClearURLs/Addon/releases) , [2](https://github.com/KevinRoebert/ClearUrls) or [Link Sanitizer](https://greasyfork.org/en/scripts/374699-link-sanitizer) - Removes tracking elements from URLs
 - ⭐ [LocalCDN](https://www.localcdn.org/) , [WhatCampaign](https://addons.mozilla.org/en-US/firefox/addon/whatcampaign/), [TrackMeNot](http://trackmenot.io/) or [Decentraleyes](https://decentraleyes.org/) - Tracking Protection
 - [Trace](https://absolutedouble.co.uk/trace/) - Privacy Toolkit
 - [Site Bleacher](https://github.com/wooque/site-bleacher) - Auto remove cookies, local storages, IndexedDBs, service workers, cache storages, filesystems & webSQLs
@@ -83,7 +83,7 @@ sidebar_label: Privacy
 - [UglyEmail](https://uglyemail.com/) or [PixelBlock](https://chrome.google.com/webstore/detail/pixelblock/jmpmfcjnflbcoidlgapblgpgbilinlem/) - Block Email Trackers
 - [Chameleon](https://github.com/sereneblue/chameleon), [UA Switcher & Manager](https://add0n.com/useragent-switcher.html) or [User-Agent Switcher](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg) - User-Agent Spoofer
 - [Firefox Privacy Settings](https://addons.mozilla.org/en-US/firefox/addon/privacy-settings/) or [SnowHaze](https://github.com/snowhaze/firefox-extension) - Firefox Privacy Settings Manager
-- [Smart Referer](https://gitlab.com/smart-referrer/smart-referer) - Limit Referer Information Leaks
+- [Smart Referer](https://github.com/smart-referrer/smart-referer) - Limit Referer Information Leaks
 - [Privacy-Oriented Origin Policy](https://claustromaniac.github.io/poop/) - Prevents Sending Origin Headers
 - [Opt Out Tools](https://add0n.com/opt-out.html) - Prevents JavaScript from sending google info
 - [Luminous](https://gbaptista.github.io/luminous/doc/en-US/) - JavaScript Events Blocker
@@ -484,9 +484,9 @@ Quote from their [privacy policy](https://www.privateinternetaccess.com/pages/pr
 - [Authy](https://play.google.com/store/apps/details?id=com.authy.authy), [Aegis](https://getaegis.app/) or [andOTP](https://github.com/andOTP/andOTP) - Two-factor authentication
 - [Island](https://play.google.com/store/apps/details?id=com.oasisfeng.island) - App Isolation
 - [UntrackMe](https://fedilab.app/wiki/untrackme/) - Frontend Redirect / Link Unshorten / URL Cleanup
-- [Stealth](https://gitlab.com/cosmosapps/stealth) - Privacy-Based Reddit Frontend
+- [Stealth](https://github.com/cosmosapps/stealth) - Privacy-Based Reddit Frontend
 - [XPrivacyLua](https://github.com/M66B/XPrivacyLua/) or [Xumi](https://xumi.ca/xumi-security/) - Privacy Manager
-- [AppWarden](https://gitlab.com/AuroraOSS/AppWarden) or [TrackerControl](https://trackercontrol.org/) - Disable App Trackers
+- [AppWarden](https://github.com/AuroraOSS/AppWarden) or [TrackerControl](https://trackercontrol.org/) - Disable App Trackers
 - [Exodus](https://reports.exodus-privacy.eu.org/en/) - Android App Tracker &amp; Permission Index / [APK](https://github.com/Exodus-Privacy/exodus-android-app)
 - [NetGuard](https://www.netguard.me/) - Block Internet Access Per App
 - [AFWall+](https://github.com/ukanth/afwall/) or [NoRoot Firewall](https://play.google.com/store/apps/details?id=app.greyshirts.firewall) - Firewall

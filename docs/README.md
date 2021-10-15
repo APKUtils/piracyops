@@ -19,7 +19,7 @@ Research purposes... :wink:
 
 > How can I suggest a new item?
 
-Create a new pull request on the GitLab repo. Make sure to check if the item already exists. Don't suggest any random site you found or you are associated with, add resson why you'd like the link to be added.
+Create a new pull request on the GitHub repo. Make sure to check if the item already exists. Don't suggest any random site you found or you are associated with, add resson why you'd like the link to be added.
 
 ## Disclaimer
 

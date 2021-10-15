@@ -2,8 +2,8 @@
 title: Better Get A Seedbox
 author: xuac
 author_title: Admin
-author_url: https://gitlab.com/xuac
-author_image_url: https://gitlab.com/uploads/-/system/user/avatar/8860699/avatar.png
+author_url: https://github.com/xuac
+author_image_url: https://github.com/uploads/-/system/user/avatar/8860699/avatar.png
 ---
 
 BitTorrent is a great technology that has really revolutionized how we share files with one another. It is not, however, a very private technology. Just about everyone in the same swarm as you, can see who you are and what you’re downloading.

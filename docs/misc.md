@@ -78,7 +78,7 @@ sidebar_label: Misc
 - [y2mate.com](http://y2mate.com/) - Download Video and Audio from YouTube.
 - [youtube-dl](http://ytdl-org.github.io/youtube-dl/index.html) - A command-line program to download videos from YouTube.com and a few more sites.
 - [YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material) - Material Design inspired YouTube downloader, based on youtube-dl, supports playlists, quality select, search, dark mode and much more, all with a clean and modern design.
-- [TheFrenchGhostys YouTube-DL Archivist Scripts](https://gitlab.com/TheFrenchGhosty/TheFrenchGhostys-YouTube-DL-Archivist-Scripts) - The ultimate collection of scripts for YouTube-DL.
+- [TheFrenchGhostys YouTube-DL Archivist Scripts](https://github.com/TheFrenchGhosty/TheFrenchGhostys-YouTube-DL-Archivist-Scripts) - The ultimate collection of scripts for YouTube-DL.
 - [YouTubeDownloader](https://github.com/ShimmyMySherbet/YouTubeDownloader) - A Music downloader with Spotify integration for automatic metadata application.
 - [Alltube](http://www.alltubedownload.net) - Web interface for youtube-dl, a program to download videos and audio from more than 100 websites.
 

@@ -21,7 +21,7 @@ module.exports = {
         { to: "/blog", label: "Blog", position: "left" },
         {
           href: "https://github.com/APKUtils/piracy",
-          label: "GitLab",
+          label: "GitHub",
           position: "right",
         },
       ],
@@ -44,7 +44,7 @@ module.exports = {
     announcementBar: {
       id: "star",
       content:
-        '<b><a target="_blank" href="https://github.com/APKUtils/piracy#:~:text=star">PLEASE LEAVE A STAR ON GITLAB</a></b>',
+        '<b><a target="_blank" href="https://github.com/APKUtils/piracy#:~:text=star">PLEASE LEAVE A STAR ON GITHUB</a></b>',
       backgroundColor: "var(--ifm-background-surface-color)",
       textColor: "var(--ifm-color-primary)",
     },

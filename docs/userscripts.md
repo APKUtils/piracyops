@@ -21,7 +21,7 @@ sidebar_label: Userscripts
 - [[TS] Citrus GFork](https://greasyfork.org/scripts/4336) - Adds bunch of GreasyFork hidden features.
 - [GBookDown - Download Google Books](https://greasyfork.org/scripts/17113) - Saves all available Preview pages from a Google Book as PNGs.
 - [GitHub-userscripts](https://github.com/Mottie/GitHub-userscripts) - Userscripts to add functionality to GitHub.
-- [Gitlab Mods](https://greasyfork.org/scripts/377122) - Adds colored sections, extra functionality, and avatars to Gitlab.
+- [GitHub Mods](https://greasyfork.org/scripts/377122) - Adds colored sections, extra functionality, and avatars to GitHub.
 - [Google Drive Direct Links](https://greasyfork.org/en/scripts/10052-google-drive-direct-links/feedback) - Direct link functionality for Google Drive.
 - [Google Image "View Image" button](https://greasyfork.org/en/scripts/392076-google-images-direct-link-fix) - Add "View Image" button.
 - [IMDb Scout](https://greasyfork.org/en/scripts/3967-imdb-scout) - Add links from IMDb pages to torrent sites, easy downloading from IMDb.
