@@ -2,8 +2,8 @@
 title: Maintaining Better Ratio
 author: xuac
 author_title: Admin
-author_url: https://github.com/xuac
-author_image_url: https://github.com/uploads/-/system/user/avatar/8860699/avatar.png
+author_url: https://gitlab.com/xuac
+author_image_url: https://gitlab.com/uploads/-/system/user/avatar/8860699/avatar.png
 ---
 
 A good tracker requires you to upload or seed what you download so that the availability never goes down. There are many ways to keep a good ratio.

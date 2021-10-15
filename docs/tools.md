@@ -22,7 +22,7 @@ sidebar_label: Tools
 - [SCRIMTEC](https://github.com/BELGRADE-OUTLAW/SCRIMTEC) - SCRIbd MPUB To EPUB Converter.
 - [TinyMediaManager](https://www.tinymediamanager.org/) - tinyMediaManager is a media management tool written in Java/Swing. It is written to provide metadata for the Kodi Media Center.
 - [Bandersnatch Interactive Player](https://mehotkhan.github.io/BandersnatchInteractive/) - Online video player for watching the new interactive episode of Black Mirror, "Bandersnatch".
-- [IPFessay](https://github.com/stavros/IPFessay) - An easy way to publish uncensorable essays on IPFS.
+- [IPFessay](https://gitlab.com/stavros/IPFessay) - An easy way to publish uncensorable essays on IPFS.
 - [File Search Utility](https://www.getlazarus.org/apps/filesearch/) - A portable and open source cross platform visual file search tool.
 - [Everything](https://www.voidtools.com/) - Locate files and folders by name on Windows instantly.
 - [crt](https://crt.sh/) - Open source Domain age/certificate checker.
@@ -191,7 +191,7 @@ sidebar_label: Tools
 - [TiviMate IPTV player](https://play.google.com/store/apps/details?id=ar.tvplayer.tv) - A popular Android app for watching IPTV on Android set-top boxes.
 - [YouTube Vanced](https://vanced.app/) - Vanced is a well known modded version of YouTube with many features such as adblocking and background playback and many more.
 - [AdAway](https://adaway.org/) - An open-source ad blocker for Android using the hosts file. It needs ROOT access.
-- [InstaGrapper](https://github.com/AwaisKing/instagrabber) - A simple yet advanced Instagram post downloader that works with private acounts.
+- [InstaGrapper](https://gitlab.com/AwaisKing/instagrabber) - A simple yet advanced Instagram post downloader that works with private acounts.
 - [Movie Updates](https://play.google.com/store/apps/details?id=com.tashila.movieupdates)
 - [Iceraven Browser](https://github.com/fork-maintainers/iceraven-browser) - Fork of Firefox with more Features
 - [Universal Android Debloater](https://forum.xda-developers.com/t/script-2020-10-04-v2-7-universal-android-debloater.4069209/) - Debloat non-rooted Androids

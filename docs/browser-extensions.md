@@ -25,14 +25,14 @@ sidebar_label: Browser Extensions
 - [CanvasBlocker](https://github.com/kkapsner/CanvasBlocker) - Alters some JS APIs to prevent fingerprinting.
 - [Canvas Fingerprint Blocker](https://github.com/joue-quroi/canvas-fingerprint-blocker) - Block HTML canvas element from being used for fingerprinting purposes.
 - [Chameleon](https://addons.mozilla.org/en-US/firefox/addon/chameleon-ext/) - Spoof your Firefox browser profile. Includes a few privacy enhancing options.
-- [ClearURLs](https://github.com/KevinRoebert/ClearUrls) - Remove tracking fields from URLs.
+- [ClearURLs](https://gitlab.com/KevinRoebert/ClearUrls) - Remove tracking fields from URLs.
 - [CSS Exfil Protection](https://github.com/mlgualtieri/CSS-Exfil-Protection) - Fixes several holes regarding [CSS manipulation](https://www.mike-gualtieri.com/css-exfil-vulnerability-tester)
 - [Decentraleyes](https://git.synz.io/Synzvato/decentraleyes) - Local emulation of Content Delivery Networks.
 - [Enterprise Policy Generator](https://github.com/cadeyrn/enterprise-policy-generator) - A Firefox WebExtension for generating Enterprise Policies.
 - [Header Editor](https://addons.mozilla.org/firefox/addon/header-editor/) - Protects you from e.g. ETag tracking, an alternative is [ETag Stoppa](https://addons.mozilla.org/firefox/addon/etag-stoppa/)
 - [Replace zero-width characters with emojis](https://github.com/chpmrc/zero-width-chrome-extension) - Google Chrome extension that can detect attempts to fingerprint text using the ["zero-width character"](https://www.bleepingcomputer.com/news/security/google-chrome-extension-detects-zero-width-character-fingerprinting-attacks/) - technique.
 - [Site Bleacher](https://github.com/wooque/site-bleacher) - Firefox/Chrome addon/extension which removes automatically cookies, local storages, IndexedDBs, service workers, cache storages, filesystems and webSQLs.
-- [Smart Referer](https://github.com/smart-referer/smart-referer) - Change your Browser referer.
+- [Smart Referer](https://gitlab.com/smart-referer/smart-referer) - Change your Browser referer.
 - [Temporary Containers](https://addons.mozilla.org/en-US/firefox/addon/temporary-containers/) - Alternative to Firefox first party isolation.
 - [Trace - Online Tracking Protection](https://absolutedouble.co.uk/trace/) - HTML5 Canvas protection for [Chrome](https://chrome.google.com/webstore/detail/trace/njkmjblmcfiobddjgebnoeldkjcplfjb) - & [Firefox](https://addons.mozilla.org/en-US/firefox/addon/absolutedouble-trace).
 - [ScriptSafe](https://github.com/andryou/scriptsafe) - Similar to NoScript with some nice features.

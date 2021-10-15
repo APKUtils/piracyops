@@ -186,7 +186,7 @@ You can only do the "[refund trick](https://www.androidauthority.com/how-to-get-
 - [Yalp Store](https://github.com/yeriomin/YalpStore) - Download apks from Google Play Store.
 - [ACMARKET](https://acmarket.net/) - Download android apps & games free.
 - [IndexOutOfBounds Store](https://store.ioob.pw/) - Streaming apps including Liveflix, PopFlix, SeriesDroid S2, and AnimeDroid S2.
-- [Aurora OSS](https://github.com/AuroraOSS/AuroraStore) - An open-source alternative for the Google Play Store.
+- [Aurora OSS](https://gitlab.com/AuroraOSS/AuroraStore) - An open-source alternative for the Google Play Store.
 
 ### APK Mirrors and Mods
 
@@ -199,7 +199,7 @@ You can only do the "[refund trick](https://www.androidauthority.com/how-to-get-
 - ⭐ [M.D. Super App Store](https://www.filelinked.com/) - Modded Streaming App Repo, use code "85810914" in file linked
   - [FileLinked Codes](https://reviewvpn.com/best-filelinked-codes/)
   - [FileLinked Codes 2](https://iptvapks.com/filelinked-codes/)
-- ⭐ [Android FOSS](https://github.com/offa/android-foss)**, ⭐ [Awesome Android](https://github.com/linuxcafefederation/awesome-android/-/blob/main/README.md) , **[/r/u_Jackie7610](https://redd.it/jhtvn4) or ⭐ [Cool FOSS](https://albertomosconi.github.io/foss-apps/) / [GitHub](https://github.com/albertomosconi/foss-apps) - Free and Open Source Apps for Android
+- ⭐ [Android FOSS](https://github.com/offa/android-foss)**, ⭐ [Awesome Android](https://gitlab.com/linuxcafefederation/awesome-android/-/blob/main/README.md) , **[/r/u_Jackie7610](https://redd.it/jhtvn4) or ⭐ [Cool FOSS](https://albertomosconi.github.io/foss-apps/) / [GitHub](https://github.com/albertomosconi/foss-apps) - Free and Open Source Apps for Android
 - [Direct Download From Google Play](https://greasyfork.org/en/scripts/33005-direct-download-from-google-play/) - Add Direct DL Links to Google Play
 - [IzzyOnDroid](https://android.izzysoft.de/applists.php) - App Repository / [F-Droid](https://apt.izzysoft.de/fdroid/index.php)
 - [Haoict Repository](https://haoict.github.io/cydia/) - App Repository
@@ -440,7 +440,7 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 - [Cinema Time](https://itunes.apple.com/us/app/cinema-time-tv-shows-tracker/id1437347902) - Similar like Popcorn Time.
 - [HDX Online](https://itunes.apple.com/us/app/hdx-online/id1386799497) - Another alternative for Cinema Time.
 - [Total files](https://itunes.apple.com/us/app/total-files/id557285579) - Basically the IDM under the iOS Download Manager.
-- [iPALibrary](https://github.com/Shub_/ipa-library/-/tree/master/Library) - Hacked/Tweaked iOS App Library maintained by Shub
+- [iPALibrary](https://gitlab.com/Shub_/ipa-library/-/tree/master/Library) - Hacked/Tweaked iOS App Library maintained by Shub
 - [Mobilism iOS Apps](https://forum.mobilism.org/viewforum.php?f=312)
 - [Tutubox](https://tutubox.io/) - Tweaked Apps Store
 - [iPAGarage](https://drive.google.com/drive/mobile/folders/1SxmAaB_dIswVsrKqtxOhymati-HaLYTT?usp=sharing) - Community Based Tweaked/Hacked iOS App Library\_ - [Their Twitter](https://twitter.com/ipagarage/) - \_For discussion, requests, and submissions

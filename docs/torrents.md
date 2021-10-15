@@ -176,7 +176,7 @@ sidebar_label: Torrents
 - [TorrentInvites](http://torrentinvites.org) - #1 to buy, trade, sell or find free Tracker Invites!.
 - [TorrentKing](https://torrentking.io/) - Torrentking is a popular movie torrent site.
 - [Torrentz2](https://torrentz2.is/) - [(mirror)](https://torrentz2.eu/) - A good replacement of the defunct Torrentz.eu.
-- [Torrents-csv.ml](https://torrents-csv.ml) - An [open-source](https://github.com/dessalines/torrents.csv) torrent search engine tracker for all sorts of torrents.
+- [Torrents-csv.ml](https://torrents-csv.ml) - An [open-source](https://gitlab.com/dessalines/torrents.csv) torrent search engine tracker for all sorts of torrents.
 - [WebOas](https://weboas.is/) - A search engine designed to find warez, music and other stuff in public dirs.
 - [xbit.pw](http://xbit.pw/) - A Magnet site search engine.
 - [YggTorrent](https://yggtorrent.ws/) - French tracker and search engine (has a download/upload ratio limitation).
@@ -240,7 +240,7 @@ sidebar_label: Torrents
 - [FrostWire](https://www.frostwire.com/) - FrostWire is a Free and open-source BitTorrent client first released in September 2004, as a fork of LimeWire.
 - [peerflix](https://github.com/mafintosh/peerflix) - Streaming torrent client for Node.js.
 - [RapidBay](https://github.com/hauxir/rapidbay) - Rapid bay is a self-hosted video service/torrent client that makes playing videos from torrents easy.
-- [Tornado](http://tornado-torrent.github.io/) - Tornado is a modern web-first BitTorrent client designed with usability in mind.
+- [Tornado](http://tornado-torrent.gitlab.io/) - Tornado is a modern web-first BitTorrent client designed with usability in mind.
 - [Tribler](https://www.tribler.org/) - Tribler is a Bittorrent client with an integrated DHT and search engine. Tor-like onion routing and end-to-end encryption can be enabled to allow for anonymous downloads.
 - [Auto unRar](https://reddit.com/r/Piracy/comments/byemt3/auto_unrar_qbittorrent/) - or via [script](https://github.com/arfoll/unrarall).
 - [iTransmission](https://iosninja.io/ipa-library/download-itransmission-ipa-ios) - iOS Torrent Client
@@ -248,7 +248,7 @@ sidebar_label: Torrents
 ### Android
 
 - ⭐ [BitLord](http://www.bitlord.com/) - Easiest torrent app for streaming and downloading.
-- ⭐ [LibreTorrent](https://github.com/proninyaroslav/libretorrent) - [Screenshot](https://i.imgur.com/HbQZ8Hd.png)
+- ⭐ [LibreTorrent](https://gitlab.com/proninyaroslav/libretorrent) - [Screenshot](https://i.imgur.com/HbQZ8Hd.png)
 - ⭐ [Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud) - [Screenshot](https://i.imgur.com/8caBvYO.png)
 - [Vuze](https://play.google.com/store/apps/details?id=com.vuze.torrent.downloader) - [Screenshot](https://i.imgur.com/OrK3mLu.png)
 - [tTorrent](https://play.google.com/store/apps/details?id=hu.tagsoft.ttorrent.lite) - [Screenshot](https://i.imgur.com/S61JgNg.png)

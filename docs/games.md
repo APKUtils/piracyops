@@ -21,7 +21,7 @@ sidebar_label: Games
   - [r/CrackWatch](https://reddit.com/r/CrackWatch/) - CrackWatch subreddit.
   - [Beginners Guide to Crack Watch](https://www.reddit.com/r/CrackWatch/comments/a7l141/crack_watch_beginners_guide_to_crack_watch/) - Reddit post by /u/EssenseOfMagic.
 - [Is Cracked?](https://iscracked.info/) - Similar likle Crackwatch, provides Infos if the game was already cracked or not, among Game information and release date.
-- [Goldberg Steam Emulator](https://github.com/Mr_Goldberg/goldberg_emulator) - The project is an attempt to make a generic Steam ddl that lets you play multiplayer games on a LAN without any internet connection.
+- [Goldberg Steam Emulator](https://gitlab.com/Mr_Goldberg/goldberg_emulator) - The project is an attempt to make a generic Steam ddl that lets you play multiplayer games on a LAN without any internet connection.
 - [MPGH](https://www.mpgh.net/) - Multiplayer game hacking (makes money via ads).
 - [SmartSteamEmu](https://github.com/MAXBURAOT/SmartSteamEmu) - A Steam emulator.
 - [Scenegames](https://scenegames.to/) - GoD scene releases.

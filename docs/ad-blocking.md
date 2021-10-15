@@ -46,7 +46,7 @@ sidebar_label: Ad Blocking
 - [Blah DNS](https://blahdns.com/)
 - [ControlD](https://controld.com/) - DNS Manager
 - [Spamhaus](https://www.spamhaus.org/) - DNS Blocklists
-- [BIND](https://github.isc.org/isc-projects/bind9) - Portable DNS Protocol
+- [BIND](https://gitlab.isc.org/isc-projects/bind9) - Portable DNS Protocol
 - [Maza](https://maza-ad-blocking.andros.dev/) - Local DNS Adblocking
 - [personalDNSfilter](https://zenz-solutions.de/personaldnsfilter/) - DNS filter proxy
 - [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome/wiki/Docker) - Network-wide DNS Adblocking / [Setup](https://github.com/klutchell/balena-adguard)
@@ -64,8 +64,8 @@ sidebar_label: Ad Blocking
 - [Daedalus](https://play.google.com/store/apps/details?id=org.itxtech.daedalus) or [Nebulo](https://git.frostnerd.com/PublicAndroidApps/smokescreen/-/blob/master/README.md) - DNS Modifier
 - [Opera](https://www.opera.com/mobile/opera-for-android) - Browser with built in adblocker
 - [Twidere](https://github.com/TwidereProject/Twidere-Android) - Ad-Free Twitter App
-- [MobileAdsBlock](https://github.com/Shub_/mobile-ads-block/-/raw/master/list) - Ad / Tracker filter
-- [Should I Answer?](http://www.shouldianswer.net/), [Yet Another Call Blocker](https://github.com/xynngh/YetAnotherCallBlocker) or [Hiya](https://www.hiya.com/) - Block Spam Calls
+- [MobileAdsBlock](https://gitlab.com/Shub_/mobile-ads-block/-/raw/master/list) - Ad / Tracker filter
+- [Should I Answer?](http://www.shouldianswer.net/), [Yet Another Call Blocker](https://gitlab.com/xynngh/YetAnotherCallBlocker) or [Hiya](https://www.hiya.com/) - Block Spam Calls
 - [The National Do Not Call Registry](https://www.donotcall.gov/) - Opt Out of Telemarketing Calls
 - [Slide](https://play.google.com/store/apps/details?id=me.ccrama.redditslide), [2](https://f-droid.org/en/packages/me.ccrama.redditslide/) or [Infinity](https://f-droid.org/en/packages/ml.docilealligator.infinityforreddit/) - Ad Free Reddit Client
 
@@ -85,6 +85,6 @@ sidebar_label: Ad Blocking
 - [Naka AdBlocker](https://apps.apple.com/ca/app/naka-adblocker/id1525185489) - DNS Adblocker
 - [Blokada](https://apps.apple.com/ca/app/blokada/id1508341781) - DNS Adblocker
 - [NextDNS](https://apps.apple.com/ca/app/nextdns/id1463342498) - DNS Adblocker (No fake VPN)
-- [BlockBear](https://apps.apple.com/ca/app/blockbear/id1023924541) or [Adblock Plus for iOS](https://github.com/eyeo/adblockplus/adblock-plus-for-safari) - Safari Adblocker
+- [BlockBear](https://apps.apple.com/ca/app/blockbear/id1023924541) or [Adblock Plus for iOS](https://gitlab.com/eyeo/adblockplus/adblock-plus-for-safari) - Safari Adblocker
 - [iSponsorBlock](https://github.com/Galactic-Dev/iSponsorBlock) - Skip YouTube Sponsorships
 - [Slide](https://apps.apple.com/us/app/slide-for-reddit/id1260626828) - Ad Free Reddit Client
