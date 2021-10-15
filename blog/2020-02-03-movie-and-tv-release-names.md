@@ -2,8 +2,8 @@
 title: Movie/TV release names
 author: xuac
 author_title: Admin
-author_url: https://gitlab.com/xuac
-author_image_url: https://gitlab.com/uploads/-/system/user/avatar/8860699/avatar.png
+author_url: https://github.com/xuac
+author_image_url: https://github.com/uploads/-/system/user/avatar/8860699/avatar.png
 ---
 
 Pirated movie release types vary wildly in rarity and quality due to the different sources and methods used for acquiring the video content and time frame of normal release. The sources for pirated copies have often changed with time in response to technology or anti-piracy measures.

@@ -20,8 +20,8 @@ module.exports = {
       items: [
         { to: "/blog", label: "Blog", position: "left" },
         {
-          href: "https://github.com/APKUtils/piracy",
-          label: "GitLab",
+          href: "https://github.com/APKUtils/piracyops",
+          label: "Github",
           position: "right",
         },
       ],
@@ -44,7 +44,7 @@ module.exports = {
     announcementBar: {
       id: "star",
       content:
-        '<b><a target="_blank" href="https://github.com/APKUtils/piracy#:~:text=star">PLEASE LEAVE A STAR ON GITLAB</a></b>',
+        '<b><a target="_blank" href="https://github.com/APKUtils/piracyops#:~:text=star">PLEASE LEAVE A STAR ON GITHUB</a></b>',
       backgroundColor: "var(--ifm-background-surface-color)",
       textColor: "var(--ifm-color-primary)",
     },
@@ -56,7 +56,7 @@ module.exports = {
         docs: {
           routeBasePath: "/",
           sidebarPath: require.resolve("./sidebars.js"),
-          editUrl: "https://github.com/APKUtils/piracy/-/edit/master/docs/",
+          editUrl: "https://github.com/APKUtils/piracyops/-/edit/master/docs/",
         },
         blog: {
           showReadingTime: true,
@@ -64,11 +64,21 @@ module.exports = {
             type: "all",
             copyright: "It's free real estate! (CC0)",
           },
-          editUrl: "https://github.com/APKUtils/piracy/-/edit/master/blog/",
+          editUrl: "https://github.com/APKUtils/piracyops/-/edit/master/blog/",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
         },
+      },
+    ],
+  ],
+  plugins: [
+    [
+      '@docusaurus/plugin-sitemap',
+      {
+        changefreq: 'weekly',
+        priority: 0.5,
+        trailingSlash: false,
       },
     ],
   ],

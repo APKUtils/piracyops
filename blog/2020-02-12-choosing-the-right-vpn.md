@@ -2,8 +2,8 @@
 title: Choosing the right VPN
 author: xuac
 author_title: Admin
-author_url: https://gitlab.com/xuac
-author_image_url: https://gitlab.com/uploads/-/system/user/avatar/8860699/avatar.png
+author_url: https://github.com/xuac
+author_image_url: https://github.com/uploads/-/system/user/avatar/8860699/avatar.png
 ---
 
 > What is the best VPN?

@@ -2,8 +2,8 @@
 title: WTF is Scene
 author: xuac
 author_title: Admin
-author_url: https://gitlab.com/xuac
-author_image_url: https://gitlab.com/uploads/-/system/user/avatar/8860699/avatar.png
+author_url: https://github.com/xuac
+author_image_url: https://github.com/uploads/-/system/user/avatar/8860699/avatar.png
 ---
 
 The Scene aka The Warez Scene is an secretive worldwide network of people who pirate copyright protected products like dvd's, movies, games, software etc. Warez refers primarily to copyrighted material pirated in violation of its copyright license and not to commercial for-profit software counterfeiting.

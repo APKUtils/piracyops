@@ -2,8 +2,8 @@
 title: Anonymity while pirating
 author: xuac
 author_title: Admin
-author_url: https://gitlab.com/xuac
-author_image_url: https://gitlab.com/uploads/-/system/user/avatar/8860699/avatar.png
+author_url: https://github.com/xuac
+author_image_url: https://github.com/uploads/-/system/user/avatar/8860699/avatar.png
 ---
 
 Let's get this straight, there is NO way to prevent yourself from being tracked, but these methods should protect you from most anti-piracy organizations as most don't have the legal/technical infrastructure to pursue past things such as VPNs.
