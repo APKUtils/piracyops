@@ -244,6 +244,7 @@ sidebar_label: Privacy
 - [Temp Mail](https://temp-mail.org/en/) - Keep spam out of your mail and stay safe - just use a disposable temporary email address!
 - [Tempr eMail](https://tempr.email/fr/) - Similar service like Temp Mail, it's from the same provider.
 - [🧅 GuerrillaMail](http://grrmailb3fxpjbwm.onion/)
+- [TempMailo](https://tempmailo.com/) - Temporary Disposable Email Address
 
 ### Self Hosted
 
