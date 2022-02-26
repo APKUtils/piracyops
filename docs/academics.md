@@ -4,6 +4,7 @@ sidebar_label: Academics
 ---
 
 - [All IT eBooks](http://www.allitebooks.com/) - A big database of free, direct links for IT and programming ebooks.
+- [MySmartFAQ](https://mysmartfaq.com/) - List of latest mobile phone with frequently asked questions and their answers.
 - [forcoder](https://forcoder.su/) - Ebooks & Elearning for Programming.
 - [it-ebooks](http://it-ebooks.info) - Large selection of free and open source IT ebooks.
 - [Z-Library](https://z-lib.org/) - Programmig and educational eBooks.
